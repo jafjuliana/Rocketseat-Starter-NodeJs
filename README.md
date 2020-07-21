@@ -23,12 +23,12 @@ npm install
 ## Run tests
 
 ```sh
-npm run test
+npm run dev
 ```
 
 ## Author
 
-* Github: [@jafjuliana](https://github.com/jafjuliana)
+- Github: [@jafjuliana](https://github.com/jafjuliana)
 
 ## 🤝 Contributing
 
@@ -42,5 +42,6 @@ Give a ⭐️ if this project helped you!
 
 This project is [ISC](https://github.com/jafjuliana/Rocketseat-Starter-NodeJs/blob/master/LICENSE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
